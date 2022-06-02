@@ -1,0 +1,47 @@
+
+[2022-06-02 17:58:16] [ INFO ] [Base:27] Configurating and instancing driver
+[2022-06-02 17:58:18] [ INFO ] [Base:30] Navigating toward url: https://rahulshettyacademy.com/seleniumPractise/#/
+[2022-06-02 17:58:23] [ INFO ] [Base:24] Starting methodadd_products_test
+[2022-06-02 17:58:23] [ INFO ] [Base:36] Selecting products' list
+[2022-06-02 17:58:23] [ INFO ] [Base:40] Products' list:
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Brocolli - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Cauliflower - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Cucumber - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Beetroot - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Carrot - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Tomato - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Beans - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Brinjal - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Capsicum
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Mushroom - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Potato - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Pumpkin - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Corn - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Onion - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Apple - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Banana - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Grapes - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Mango - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Musk Melon - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Orange - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Pears - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Pomegranate - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Raspberry - 1/4 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Strawberry - 1/4 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Water Melon - 1 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Almonds - 1/4 Kg
+[2022-06-02 17:58:23] [ INFO ] [Base:41] Pista - 1/4 Kg
+[2022-06-02 17:58:24] [ INFO ] [Base:41] Nuts Mixture - 1 Kg
+[2022-06-02 17:58:24] [ INFO ] [Base:41] Cashews - 1 Kg
+[2022-06-02 17:58:24] [ INFO ] [Base:41] Walnuts - 1/4 Kg
+[2022-06-02 17:58:24] [ INFO ] [Base:47] Looking for element: Beans-3
+[2022-06-02 17:58:24] [ INFO ] [Base:50] index of element: 6
+[2022-06-02 17:58:24] [ INFO ] [Base:47] Looking for element: Brocolli-4
+[2022-06-02 17:58:24] [ INFO ] [Base:50] index of element: 0
+[2022-06-02 17:58:24] [ INFO ] [Base:47] Looking for element: Cucumber-5
+[2022-06-02 17:58:24] [ INFO ] [Base:50] index of element: 2
+[2022-06-02 17:58:24] [ INFO ] [Base:32] Test: add_products_test passed
+[2022-06-02 17:58:24] [ INFO ] [Base:24] Starting methodfind_price_disscount
+[2022-06-02 17:58:25] [ ERROR] [Base:52] Element: Chocolatee didn't find
+[2022-06-02 17:58:25] [ INFO ] [Base:32] Test: find_price_disscount passed
+[2022-06-02 17:58:25] [ INFO ] [Base:52] Closing browser
