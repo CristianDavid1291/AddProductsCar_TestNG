@@ -11,6 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.asserts.SoftAssert;
 
 import base_resources.Base;
 
@@ -31,6 +32,7 @@ public class Price_Discount {
 
 		OptionalInt index;
 		boolean isPresent = false;
+		SoftAssert a = new SoftAssert();
 		
 		while (nextButton.getAttribute("aria-disabled").equals("false") && isPresent == false) {
 			
@@ -50,6 +52,7 @@ public class Price_Discount {
 		}
 		if(isPresent==false) {
 			log.error("Element: "+name+" didn't find");
+			a.assertTrue(isPresent,"Element: "+name+" doesn't found");
 		}
 
 	}
